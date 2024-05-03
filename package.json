@@ -1,0 +1,17 @@
+{
+  "name": "cy-download-and-remove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cy-verify-downloads": "^0.2.4",
+    "cypress": "^13.8.1",
+    "cypress-delete-downloads-folder": "^0.0.4"
+  }
+}
